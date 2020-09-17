@@ -2,7 +2,8 @@
 public class About : public Marcin
 {
 public:
-    string lang[] = {"Java", "C++", "Python"};
-    string os[] = {"Windows", "Linux"};
+    string languages[] = {"Java", "C++", "Python"};
+    string db_languages[] = {"SQLite"}
+    string systems[] = {"Windows", "Linux"};
 }
 ```
