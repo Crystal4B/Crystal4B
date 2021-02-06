@@ -1,5 +1,5 @@
 ```c++
-public class About : public Marcin
+class About : public Marcin
 {
 public:
     string languages[] = {"Java", "C++", "Python"};
